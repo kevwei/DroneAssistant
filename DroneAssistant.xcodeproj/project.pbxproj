@@ -15,6 +15,7 @@
 		675D1C231CD5724B005CFC1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 675D1C221CD5724B005CFC1B /* Assets.xcassets */; };
 		675D1C261CD5724B005CFC1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 675D1C241CD5724B005CFC1B /* LaunchScreen.storyboard */; };
 		9339AF841CD57E990039A043 /* StatusTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9339AF831CD57E990039A043 /* StatusTableViewController.swift */; };
+		9339AF881CD583FA0039A043 /* Resources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9339AF871CD583FA0039A043 /* Resources.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		675D1C251CD5724B005CFC1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		675D1C271CD5724B005CFC1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9339AF831CD57E990039A043 /* StatusTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusTableViewController.swift; sourceTree = "<group>"; };
+		9339AF871CD583FA0039A043 /* Resources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Resources.bundle; sourceTree = "<group>"; };
 		A5FB42071C4A37ECE9F5D647 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDF716E84EC37216016563B8 /* Pods-DroneAssistant.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DroneAssistant.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DroneAssistant/Pods-DroneAssistant.debug.xcconfig"; sourceTree = "<group>"; };
 		C8974C1D772187FCC5877195 /* Pods-DroneAssistant.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DroneAssistant.release.xcconfig"; path = "Pods/Target Support Files/Pods-DroneAssistant/Pods-DroneAssistant.release.xcconfig"; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				675D1C1B1CD5724B005CFC1B /* AppDelegate.swift */,
 				675D1C1D1CD5724B005CFC1B /* ViewController.swift */,
+				9339AF871CD583FA0039A043 /* Resources.bundle */,
 				675D1C1F1CD5724B005CFC1B /* Main.storyboard */,
 				675D1C221CD5724B005CFC1B /* Assets.xcassets */,
 				675D1C241CD5724B005CFC1B /* LaunchScreen.storyboard */,
@@ -159,6 +162,7 @@
 				675D1C261CD5724B005CFC1B /* LaunchScreen.storyboard in Resources */,
 				675D1C231CD5724B005CFC1B /* Assets.xcassets in Resources */,
 				675D1C211CD5724B005CFC1B /* Main.storyboard in Resources */,
+				9339AF881CD583FA0039A043 /* Resources.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
