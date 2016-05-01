@@ -1,9 +1,10 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '6.0'
 
-target 'DroneAssistant' do
-  use_frameworks!
+use_frameworks!
 
-  pod 'VideoSplashKit'
+pod 'VideoSplashKit'
+
+target 'DroneAssistant' do
 end
 
